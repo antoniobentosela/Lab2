@@ -1,0 +1,2 @@
+C:\Users\Sabrina\Desktop\EjemploParcial\Libreria\obj\Debug\Libreria.csprojAssemblyReference.cache
+C:\Users\Sabrina\Desktop\EjemploParcial\Libreria\obj\Debug\Libreria.csproj.CoreCompileInputs.cache

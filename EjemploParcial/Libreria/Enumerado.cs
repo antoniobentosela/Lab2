@@ -1,0 +1,6 @@
+﻿enum ETipoManada
+{
+    Unica,
+    Mixta
+
+}

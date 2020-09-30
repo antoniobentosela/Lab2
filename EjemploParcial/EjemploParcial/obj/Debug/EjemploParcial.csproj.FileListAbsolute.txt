@@ -1,0 +1,7 @@
+C:\Users\Sabrina\Desktop\EjemploParcial\EjemploParcial\bin\Debug\EjemploParcial.exe.config
+C:\Users\Sabrina\Desktop\EjemploParcial\EjemploParcial\bin\Debug\EjemploParcial.exe
+C:\Users\Sabrina\Desktop\EjemploParcial\EjemploParcial\bin\Debug\EjemploParcial.pdb
+C:\Users\Sabrina\Desktop\EjemploParcial\EjemploParcial\obj\Debug\EjemploParcial.csprojAssemblyReference.cache
+C:\Users\Sabrina\Desktop\EjemploParcial\EjemploParcial\obj\Debug\EjemploParcial.csproj.CoreCompileInputs.cache
+C:\Users\Sabrina\Desktop\EjemploParcial\EjemploParcial\obj\Debug\EjemploParcial.exe
+C:\Users\Sabrina\Desktop\EjemploParcial\EjemploParcial\obj\Debug\EjemploParcial.pdb
